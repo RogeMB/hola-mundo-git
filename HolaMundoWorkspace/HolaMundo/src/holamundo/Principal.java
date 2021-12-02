@@ -21,6 +21,7 @@ public class Principal {
 		System.out.println(array [1]);
 		System.out.println(array [2]);
 
+		/*add configuration, application,unnamed (el nombre que queramos), java17, fichero que queremos ejecutar, ok.*/
 	}
 
 }
